@@ -12,6 +12,7 @@ We also now have high coverage unit and integration tests written by myself, Jos
 
 On our frontend React with TypeScript and MobX was a perfect mix.  Although refactoring needs to be done and automated tests need to be put in place, there is now a solid foundation.
 
+### My Contributions
 [Service Commits](https://github.com/rpi-ptam/ptam-service/commits/master?author=ashapir0)
 [Client Commits](https://github.com/rpi-ptam/ptam-client/commits/master?author=ashapir0)
 [Migrations Commits](https://github.com/rpi-ptam/schematron/commits/master?author=ashapir0)
