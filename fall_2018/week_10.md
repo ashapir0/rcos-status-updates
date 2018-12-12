@@ -1,3 +1,5 @@
+## Looking back on a successful semester
+
 This semester in RCOS presented several interesting challenges both managerially and technically.  Developing V2 of Parking Ticket Appeals Management encompassed a ground-up rebuild.  Working with Dylan, Josh and Will on architecture at the start of the semester was a pleasure and in my opinion we came up with a robust, sustainable and elegant solution.
 
 Starting with our database, Josh and I worked together to tweak and remove redundancies in our data-models.  We created UML diagrams, and worked with Dylan to implement migrations with [node-pg-migrate](https://github.com/salsita/node-pg-migrate).  Figuring out how to structure large migrations was challenging and I think we can still improve in this area.  However, from V1 to V2, developer onboarding, CI/CD and deployment were immensely streamlined with migrations.
