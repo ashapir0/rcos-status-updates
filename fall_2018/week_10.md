@@ -1,4 +1,4 @@
-## Looking back on a successful semester
+## Looking Back On A Successful Semester
 
 This semester in RCOS presented several interesting challenges both managerially and technically.  Developing V2 of Parking Ticket Appeals Management encompassed a ground-up rebuild.  Working with Dylan, Josh and Will on architecture at the start of the semester was a pleasure and in my opinion we came up with a robust, sustainable and elegant solution.
 
