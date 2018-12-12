@@ -14,5 +14,7 @@ On our frontend React with TypeScript and MobX was a perfect mix.  Although refa
 
 ### My Contributions
 [Service Commits](https://github.com/rpi-ptam/ptam-service/commits/master?author=ashapir0)
+
 [Client Commits](https://github.com/rpi-ptam/ptam-client/commits/master?author=ashapir0)
+
 [Migrations Commits](https://github.com/rpi-ptam/schematron/commits/master?author=ashapir0)
