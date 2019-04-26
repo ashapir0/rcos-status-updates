@@ -18,5 +18,7 @@ In addition to working with Josh in the experimental repository and preparing ou
 I'd like to move our frontend demo into an examples section of the mono-repo in the future.
 
 [OSS Whistler Package](https://github.com/Open-Scanner-Serial/OSS/tree/master/packages/whistler)
+
 [OSS Mono-Repo](https://github.com/Open-Scanner-Serial/OSS)
+
 [Frontend Demo](https://github.com/Open-Scanner-Serial/Frontend-Demo)
