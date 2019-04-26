@@ -13,7 +13,7 @@ Using an event-emitter based library - while incredibly performant - makes it to
 Josh and I plan on working on OSS well into the future (to be used as a library in our own personal projects). I look forward to keeping RCOS in the loop and potentially recruiting new members to work with us in the future.
 
 ### My Contributions
-In addition to working with Josh in the experimental repository and preparing our frontend demonstration, I spent much of my time formalizing Josh's logic into an end-user library.  I also implemented serveral commands, although I didn't get around to implementing all of the responses due to some bugs.
+In addition to working with Josh in the experimental repository and preparing our frontend demonstration, I spent much of my time formalizing Josh's logic into an end-user library.  I also implemented several commands, although I didn't get around to implementing all of the responses due to some bugs.
 
 I'd like to move our frontend demo into an examples section of the mono-repo in the future.
 
