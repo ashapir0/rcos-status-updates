@@ -8,7 +8,7 @@ Over the course of the last semester I've learned a lot about hardware.  As a fu
 
 Starting with our experimentation repository, Josh and I worked dilligently to get a proof-of-concept going in less than a month.  Choosing an underlying serial library was challenging because the benefits and drawbacks of each option are hard to quantify in terms of our unique use-case upfront.  However, I am generally confident that we made the right choice [SerialPort](https://serialport.io).  This library is platform agnostic and makes use of Node's event loop well (by using event-emitters).
 
-Using an event-emitter based library - while incredibly performant - makes it tough to integrate a linear control-flow controller (outlined our goals).  My initial approach worked but caused a listener-based memory leak (these are hard to address in Node).  However a callback based implementation seems to have solved this (although the internal flow is a bit more challenging to follow).  In the future, I'd like to implement a cleaner solution.
+Using an event-emitter based library - while incredibly performant - makes it tough to integrate a linear control-flow controller (outlined in our goals).  My initial approach worked but caused a listener-based memory leak (these are hard to address in Node).  However a callback based implementation seems to have solved this (although the internal flow is a bit more challenging to follow).  In the future, I'd like to implement a cleaner solution.
 
 Josh and I plan on working on OSS well into the future (to be used as a library in our own personal projects). I look forward to keeping RCOS in the loop and potentially recruiting new members to work with us in the future.
 
